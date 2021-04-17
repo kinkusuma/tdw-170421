@@ -1,0 +1,13 @@
+main {
+    min-height: 100vh;
+}
+
+.profile-img {
+    width: 10rem;
+    height: 10rem;
+    display: block;
+}
+
+.card-text {
+    min-height: 4rem;
+}
